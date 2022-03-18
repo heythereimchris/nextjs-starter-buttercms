@@ -7,7 +7,7 @@ export default function MissingTokenSection() {
                 <div className="row align-items-center">
                     <div className="col-xl-6 col-lg-6 col-md-10">
                         <div className="hero-content">
-                            <h1>Configure your ButterCMS API Token</h1>
+                            <h1>ButterCMS Next JS App</h1>
                             <p>Please add your API token to <code>.env</code> file as <code>NEXT_PUBLIC_BUTTER_CMS_API_KEY</code>.</p>
                             <a target="_blank" rel="noreferrer" href="https://buttercms.com/join/" className="main-btn btn-hover">
                                 Get your free API token
